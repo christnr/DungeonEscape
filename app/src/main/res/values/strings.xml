@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dungeon Escape</string>
+    <string name="help_text"><big>Story:</big>\nYou are a monster that lives in a dungeon and have grown
+        tired of your life attacking wandering adventurers. To break the ennui you decide to leave, but the
+        dungeon boss is blocking the only exit.\n\n<big>Goal:</big>\nFight your way through the adventurers
+        and defeat the dungeon boss. Due to physical distancing restrictions only three adventurers are
+        allowed in the room at one time. Defeat one and another is allowed in. Defeat the adventurers
+        to become strong enough to defeat the dungeon boss who will not let you leave because you have
+        not quarantined for two weeks.\n\n<big>How to play:</big>\nPress the arrow buttons to move your
+        monster around the dungeon. If you move into a monster, you will attack it. Defeat adventurers
+        to gain experience points. Gain enough points and you will level up to a maximum of level 10.\n
+        \n<big>Golem:</big>\nBest for casual players. Starts with higher stats, but grows less
+        when levels up.\n\n<big>Daemon:</big>\nFor those that want a little challenge. Starts with
+        slightly lower stats than the Golem, but grows faster on level up.\n\n<big>Slime:</big>\nFor those
+        that love a challenge. Starts with very low stats, but has high growth potential.\n\n<big>Settings:</big>
+        \nMusic: Turn music on or off.\nSound FX: Turn sound effects on or off.\n\n<big>Credits:</big>
+        \nGame Design, Art, Music, Sound Design, Programming: Nicholas Christensen
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="max_string">MAX</string>
+</resources>
