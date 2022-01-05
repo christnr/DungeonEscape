@@ -1,5 +1,6 @@
 # DungeonEscape
 Simple retro-style RPG for Android.
+
 This was a project for a programming class. In the future I hope to expand the concept to a full game.
 
 You play as a monster trying to escape from the dungeon, but you have to fight past wandering adventurers and defeat the dungeon boss to reach the exit.
